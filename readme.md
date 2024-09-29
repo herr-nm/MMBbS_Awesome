@@ -8,6 +8,7 @@
   - [Tools](#tools)
     - [Web-Tools](#web-tools)
     - [Installationen](#installationen)
+    - [Visual Studio Code](#visual-studio-code)
 
 
 ## Alles rund um die IT-Ausbildung
@@ -28,3 +29,9 @@
 ### Installationen
 
 - Dateisuche in Schnell: [Everything von Void-Tools](https://www.voidtools.com/)
+- Textersetzung: [espanso](https://espanso.org/)
+
+### Visual Studio Code
+
+- CSV-Dateien übersichtlich darstellen: [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- UML-Diagramme und Mindmaps auf Textbasis erstellen: [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
