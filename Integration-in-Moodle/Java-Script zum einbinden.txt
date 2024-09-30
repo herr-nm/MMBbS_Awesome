@@ -1,0 +1,26 @@
+<div id="github-content"></div>
+
+<script>
+    // URL der HTML-Seite auf GitHub Pages
+    const url = 'https://herr-nm.github.io/MMBbS_Awesome/literatur.html';
+
+    // HTML-Element, in das der Inhalt geladen werden soll
+    const container = document.getElementById('github-content');
+
+    // Mit JavaScript den HTML-Code von GitHub laden
+    fetch(url)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok ' + response.statusText);
+            }
+            return response.text();
+        })
+        .then(data => {
+            // HTML-Code in das Div-Element einfügen
+            container.innerHTML = data;
+        })
+        .catch(error => {
+            console.error('Es gab ein Problem mit dem Abrufen des HTML-Codes:', error);
+            container.innerHTML = '<p>Der Inhalt konnte nicht geladen werden.</p>';
+        });
+</script>
