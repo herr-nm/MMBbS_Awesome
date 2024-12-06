@@ -1,0 +1,110 @@
+// KI-Leitfaden Quiz
+// Einführung und korrekter Umgang mit KI-Tools
+
+::Frage 1:: Was ist laut Leitfaden ein sinnvoller Einsatz von KI-Tools? 
+{
+~%100% Als Inspirationsquelle
+~%100% Für Planungs- und Strukturierungsaufgaben
+~%100% Zur Überarbeitung von Texten
+~%0% Zum Erstellen vollständiger wissenschaftlicher Arbeiten
+}
+
+// Frage zu kritischem Umgang mit KI
+
+::Frage 2:: Warum sollten KI-Ergebnisse immer überprüft werden?
+{
+~%100% KI kann inhaltliche Fehler machen.
+~%0% KI ist immer korrekt, aber es gibt gesetzliche Vorschriften.
+~%0% KI-Ergebnisse sind grundsätzlich unbrauchbar.
+~%0% Lehrkräfte können KI-Ergebnisse nicht bewerten.
+}
+
+// Transparenz und Kennzeichnung
+
+::Frage 3:: Wie müssen KI-Tools in den Ergebnissen gekennzeichnet werden? 
+{
+~%100% Mit dem verwendeten KI-Tool und den Prompts.
+~%0% Es ist keine Kennzeichnung erforderlich.
+~%0% Nur bei wissenschaftlichen Arbeiten ist eine Angabe nötig.
+~%0% Mit dem Namen des Entwicklers der KI.
+}
+
+// Eigenständiges Arbeiten
+
+::Frage 4:: Warum darf man nicht die gesamte Arbeit mit KI erstellen?
+{
+~%100% Eigenständige Bearbeitung ist entscheidend für den Lernerfolg.
+~%0% KI-Tools sind teuer.
+~%0% KI-Ergebnisse werden nicht akzeptiert.
+~%0% Es gibt keine klare Regelung dazu.
+}
+
+// Verantwortung
+
+::Frage 5:: Wer ist verantwortlich für die Ergebnisse, wenn KI genutzt wurde? 
+{
+~%100% Die Person, die die KI-Ergebnisse verwendet hat.
+~%0% Das KI-Tool selbst.
+~%0% Die Lehrkraft.
+~%0% Niemand, wenn KI eingesetzt wurde.
+}
+
+// Einsatz als wissenschaftliche Quelle
+
+::Frage 6:: Darf man KI-Ergebnisse als wissenschaftliche Quelle verwenden? 
+{
+~%100% Nein, KI-Ergebnisse dürfen nicht als wissenschaftliche Quellen genutzt werden.
+~%0% Ja, wenn die KI als glaubwürdig gilt.
+~%0% Nur in begründeten Ausnahmefällen.
+~%0% Ja, aber nur bei schriftlicher Genehmigung der Lehrkraft.
+}
+
+// Täuschungsversuch
+
+::Frage 7:: Was passiert, wenn die Kennzeichnung von KI-Tools nicht eingehalten wird?
+{
+~%100% Es wird als Täuschungsversuch gewertet.
+~%0% Es gibt keine Konsequenzen.
+~%0% Die Arbeit wird automatisch als ungültig erklärt.
+~%0% Es folgt ein Verweis durch die Schule.
+}
+
+// Beispiele zur KI-Nutzung
+
+::Frage 8:: Welcher Hinweis ist im Leitfaden zu Prompts bei KI-Texten enthalten? 
+{
+~%100% Alle verwendeten Prompts müssen angegeben werden.
+~%0% Nur der erste Prompt ist wichtig.
+~%0% Prompts dürfen nur in englischer Sprache angegeben werden.
+~%0% Prompts sind irrelevant, wenn die KI gute Ergebnisse liefert.
+}
+
+// Vermeidung von Fehlern
+
+::Frage 9:: Welcher dieser Fehler sollte beim Einsatz von KI vermieden werden? 
+{
+~%100% Sich ausschließlich auf KI verlassen.
+~%100% KI-Ergebnisse ungeprüft übernehmen.
+~%0% KI für Planungsaufgaben einsetzen.
+~%0% KI-Ergebnisse umformulieren.
+}
+
+// Beispiele zur Transparenz
+
+::Frage 10:: Ein Schüler verwendet ein KI-Tool, um eine Idee zu entwickeln. Was muss er tun? 
+{
+~%100% Das KI-Tool und den verwendeten Prompt angeben.
+~%0% Die Idee ohne Kennzeichnung einreichen.
+~%0% Eine schriftliche Erklärung anfügen.
+~%0% Den Namen der KI verschweigen.
+}
+
+// Nutzung von KI im Unterricht
+
+::Frage 11:: Welche der folgenden Aufgaben können sinnvoll mit KI-Tools unterstützt werden? 
+{
+~%100% Verbesserung von Rechtschreibung und Grammatik.
+~%100% Strukturierung von Projekten.
+~%0% Erstellung von vollständigen Abschlussarbeiten.
+~%0% Ungeprüfte Übernahme von Ergebnissen.
+}
